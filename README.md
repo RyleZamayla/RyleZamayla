@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua Ryle</h1>
 <h3 align="center">Always learning and exploring new technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://img0.joyreactor.com/pics/post/gif-pixel-art-1490462.gif")>
+<img align="right" alt="Coding" width="400" src="https://img0.joyreactor.com/pics/post/gif-pixel-art-1490462.gif">
 
-<p align="left"> <img src="https://img0.joyreactor.com/pics/post/gif-pixel-art-1490462.gif" alt="rylezamayla" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rylezamayla&label=Profile%20views&color=0e75b6&style=flat" alt="rylezamayla" /> </p>
 
 - 🔭 I’m currently working on [TweetFeed](https://github.com/RyleZamayla/TweetFeed.git)
 
