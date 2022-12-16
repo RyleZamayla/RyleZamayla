@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Wawaaa</h1>
+<h1 align="center">👋 Hi , I'm Wawaaa 😺</h1>
 <h3 align="center">Always learning and exploring new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
