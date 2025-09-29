@@ -1,5 +1,5 @@
 # 🐬 RyleZamayla - Wawaaa
-<img align="left" alt="Coding" width="380" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
+<img align="left" alt="Coding" width="340" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
 **`Tech Enthusiast (Web Developer/Mobile App Developer/Systems Integrator)`**
 
