@@ -1,5 +1,5 @@
 # 🐬 RyleZamayla - Wawaaa
-<img align="left" alt="Coding" width="340" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
+<img align="left" alt="Coding" width="360" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
 **`Tech Enthusiast (Web Developer/Mobile App Developer/Systems Integrator)`**
 
@@ -21,6 +21,8 @@ I'm a full-stack thinker bringing together technical expertise, a dedicated focu
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+
+<br />
 <br />
 
 ---
